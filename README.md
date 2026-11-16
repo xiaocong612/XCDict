@@ -5,10 +5,12 @@
 **全级别现代英汉双解离线电子词典与词库**  
 *A High-Performance, Multi-Tier Modern English-Chinese Dictionary for Mobile & Desktop Apps*
 
+[![Release](https://img.shields.io/badge/Release-v1.0.1-blue.svg)](https://github.com/xiaocong612/XCDict/releases)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 [![Database](https://img.shields.io/badge/Database-SQLite_3-003B57.svg?logo=sqlite)](dist/xcdict.db)
-[![Words](https://img.shields.io/badge/Headwords-13%2C480-success.svg)](dist/xcdict.json)
-[![Senses](https://img.shields.io/badge/Senses-16%2C887-brightgreen.svg)](dist/xcdict.json)
+[![Words](https://img.shields.io/badge/Headwords-13%2C524-success.svg)](dist/xcdict.json)
+[![Senses](https://img.shields.io/badge/Senses-16%2C878-brightgreen.svg)](dist/xcdict.json)
+[![Coverage](https://img.shields.io/badge/Definition_Coverage-100%25-brightgreen.svg)](dist/xcdict.json)
 [![Phonetics](https://img.shields.io/badge/IPA_Phonetics-96.1%25-orange.svg)](dist/xcdict.db)
 
 </div>
@@ -20,7 +22,7 @@
 **XCDict** 是一套专为**跨平台移动应用（Flutter + Rust、iOS、Android、React Native）、桌面端软件及背单词工具**量身定制的高性能离线英汉双解词典库：
 
 1. **🚀 极小包体，极致性能**：
-   - 包含 13,480 个完整词条、16,887 个细分义项与双语例句，整库仅约 **4.9 MB**。
+   - 包含 13,524 个完整词条、16,878 个细分义项与双语例句（释义覆盖率 100%），整库仅约 **5.3 MB**。
    - 随 App 直接打包进安装包（Assets），首次启动**零内存占用**，按需分页读取。
    - 预建 B-Tree 双向索引，Rust / C++ / 原生端检索**低于 0.1 毫秒（微秒级）**，搜索框前缀自动补全（Autocomplete）在移动端轻松跑满 120fps 丝滑不卡顿。
 
@@ -175,8 +177,19 @@ if row:
 
 | 文件名称 | 说明 | 压缩包大小 |
 | :--- | :--- | :---: |
-| [XCDict-v1.0.0.zip](release/XCDict-v1.0.0.zip) | 包含 SQLite 数据库、JSON 格式与 CSV 格式的完整整合包 | **~4.88 MB** |
+| [XCDict-v1.0.1.zip](release/XCDict-v1.0.1.zip) | 包含 SQLite 数据库、JSON 格式与 CSV 格式的完整整合包 (v1.0.1) | **~4.88 MB** |
 | [SHA256SUMS.txt](release/SHA256SUMS.txt) | 官方哈希校验清单，防篡改完整性验证 | < 1 KB |
+
+---
+
+## 📝 版本更新历史 (Changelog)
+
+### v1.0.1 (2026-11-16)
+- 🚑 **紧急修复**: 修复 `resilient` 词条释义错误（原上游错位为“帕特森（美国一座城市）”，已纠正为“有弹性的，能复原的；有适应力的，坚韧不拔的”并补充双语真题例句）。
+- 🛠️ **词义修复**: 修复 `semiconductor`（半导体）、`spite`（恶意）、`textile`（纺织品）、`amidst`（在……之中）、`fanwise` 等 7 处被截断或残缺的释义。
+- ✨ **释义补全**: 补全 45 个因基础过滤导致缺失释义的高频词条（如 `children`, `email`, `carefully`, `excited`, `including`, `human being`, `ice-cream` 等），**全库释义覆盖率达到 100%**。
+- 🧩 **排版规整**: 规范切分 96 处多词性粘连的释义（如 `adept: 熟练的 n老手`）。
+- 🧹 **噪声剔除**: 清理 145 处常见单词中夹带的无意义人名音译干扰项（如 `(Happy)人名` 等），剔除 2 处残余杂质词头。
 
 ---
 
