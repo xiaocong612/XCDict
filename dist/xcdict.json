@@ -64,6 +64,28 @@
     "culture": null
   },
   {
+    "word": "a.m.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "上午，午前（源自拉丁语 ante meridiem）",
+        "def_en": "Before noon; in the morning.",
+        "examples": [
+          {
+            "en": "The meeting starts promptly at 9:00 a.m.",
+            "zh": "会议将于上午9点整准时开始。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "abalone",
     "phonetic_us": ",æbə'loni",
     "phonetic_uk": ",æbə'ləʊnɪ",
@@ -458,13 +480,6 @@
             "zh": "我班上能力比较强的学生之一"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Able)人名；(伊朗)阿布勒；(英)埃布尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -4284,7 +4299,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "熟练的, 老练的 n老手, 擅长者",
+        "def_zh": "熟练的, 老练的",
         "def_en": null,
         "examples": [
           {
@@ -4292,6 +4307,13 @@
             "zh": "恐怕她还是一个撒谎专家。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "老手, 擅长者",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -5044,13 +5066,6 @@
             "zh": "贝蒂非常宠爱孙辈。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Adore)人名；(法)阿多尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -6513,13 +6528,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Afford)人名；(英)阿福德",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -7406,13 +7414,6 @@
       {
         "pos": "adj",
         "def_zh": "以前的；过去的",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ago)人名；(英、西、意、塞、瑞典)阿戈",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -8403,7 +8404,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "阿拉斯加人 a阿拉斯加的",
+        "def_zh": "阿拉斯加人",
         "def_en": null,
         "examples": [
           {
@@ -8415,6 +8416,13 @@
             "zh": "但这种蟹类也遭受了类似于身份危机的问题: 由于大多数人认为阿拉斯加帝王蟹就是这种螃蟹的名字，进口帝王蟹通常被这样误称。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "阿拉斯加的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -10218,13 +10226,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Also)人名；(罗)阿尔索",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -11360,13 +11361,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Amiable)人名；(法)阿米亚布勒；(英)阿米娅布尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -11402,21 +11396,14 @@
     "senses": [
       {
         "pos": "prep",
-        "def_zh": "=amid",
-        "def_en": null,
+        "def_zh": "在……之中，在……中间（同 amid，置身于某种环境或氛围中）",
+        "def_en": "Surrounded by; in the middle of.",
         "examples": [
           {
-            "en": "During some trials, an audible tone was played through the headphones, either amidst white noise or on its own, and afterwards the participants were asked if they had noticed it.",
-            "zh": "在一些测试中，耳机里会播放一些可被听见的声音，该声音或混杂于白噪音中，或单独播放，之后，参与者将被问及是否注意到这些声音。"
+            "en": "She remained remarkably calm amidst all the confusion.",
+            "zh": "在一片混乱之中，她表现得异常沉着镇定。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "在",
-        "def_zh": "当中",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -11756,13 +11743,6 @@
             "zh": "丰满的胸部"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ample)人名；(西)安普尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -12491,13 +12471,6 @@
             "zh": "她不跟别人说话，也没人跟她说话。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(And)人名；(土、瑞典)安德",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -14013,7 +13986,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "反对者 a反对的",
+        "def_zh": "反对者",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "反对的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -14455,13 +14435,6 @@
       {
         "pos": "adv",
         "def_zh": "稍微；少许",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Any)人名；(法、罗)阿尼",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -17323,13 +17296,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Arise)人名；(西)阿里塞；(日)在濑(姓)",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -17896,13 +17862,6 @@
             "zh": "警方赶到现场时，窃贼已经逃跑了。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Arrive)人名；(法)阿里夫",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -18877,13 +18836,6 @@
             "zh": "那孩子总是问一些尴尬的问题。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ask)人名；(芬、瑞典)阿斯克",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -23103,13 +23055,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Aware)人名；(阿拉伯、索)阿瓦雷",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -23957,6 +23902,28 @@
         "def_zh": "向后地；相反地",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "backwards",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "向后，倒退地；相反地",
+        "def_en": "Toward the back; in the direction opposite to usual.",
+        "examples": [
+          {
+            "en": "He glanced backwards over his shoulder.",
+            "zh": "他转过头向身后看了一眼。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -25552,13 +25519,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Bare)人名；(英)贝尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -26790,6 +26750,28 @@
     "culture": null
   },
   {
+    "word": "bc",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "abbr",
+        "def_zh": "公元前（Before Christ）",
+        "def_en": "Before Christ (used in dating years prior to the Christian era).",
+        "examples": [
+          {
+            "en": "The temple was built around 500 BC.",
+            "zh": "这座神庙建于大约公元前500年。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "be",
     "phonetic_us": "bi",
     "phonetic_uk": "biː",
@@ -26826,13 +26808,6 @@
             "zh": "他不会走吧？"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Be)人名；(缅)拜；(日)部(姓)；(朝)培；(中非)贝",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -27006,6 +26981,28 @@
         "def_zh": "击…的头部",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "bean curd",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "豆腐（源自黄豆制成的凝乳食品）",
+        "def_en": "Tofu; curd made from mashed soybeans, used in cooking.",
+        "examples": [
+          {
+            "en": "Stir-fried bean curd with vegetables is delicious and healthy.",
+            "zh": "家常素炒豆腐不仅美味而且健康。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -27838,13 +27835,6 @@
             "zh": "她突然很想冲上去请求他原谅，但是她忍住了。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Beg)人名；(德、塞、巴基)贝格",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -28686,13 +28676,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Below)人名；(英、德、芬、瑞典)贝洛",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -29037,13 +29020,6 @@
             "zh": "他被逗乐了，和蔼地摇了摇头。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Benign)人名；(俄)贝尼根",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -29926,13 +29902,6 @@
       {
         "pos": "adv",
         "def_zh": "大量地；顺利；夸大地",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Big)人名；(土)比格",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -31838,13 +31807,6 @@
             "zh": "“杰斯给我做了这张卡。”“真不错！”"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Bless)人名；(英、意、德、匈)布莱斯",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -34139,13 +34101,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Born)人名；(柬)邦；(英、西、俄、捷、德、瑞典、匈)博恩",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -34201,13 +34156,6 @@
             "zh": "他们向银行贷了巨款来创办新公司。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Borrow)人名；(英)博罗",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -34397,13 +34345,6 @@
       {
         "pos": "conj",
         "def_zh": "既…且…",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Both)人名；(德、罗、捷、南非、匈)博特",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -38212,7 +38153,14 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "多虫的 n童车",
+        "def_zh": "多虫的",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "童车",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -39164,13 +39112,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Bury)人名；(法)比里；(英、西)伯里；(德、意、罗、波、捷、匈)布里；(俄)布雷",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -39439,13 +39380,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Busy)人名；(匈)布希；(法)比西",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -39495,13 +39429,6 @@
       {
         "pos": "prep",
         "def_zh": "除…以外",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(But)人名；(俄、罗)布特；(越)笔",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -40083,7 +40010,14 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "贮藏，隐藏  n藏物处",
+        "def_zh": "贮藏，隐藏",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "藏物处",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -40192,6 +40126,28 @@
           {
             "en": "the school cafeteria",
             "zh": "学校餐厅"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "café",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "咖啡馆，小餐馆",
+        "def_en": "A small restaurant selling light meals and drinks.",
+        "examples": [
+          {
+            "en": "We met for a chat at a cozy sidewalk café.",
+            "zh": "我们在一家温馨的路边咖啡馆碰面聊天。"
           }
         ],
         "status": "reviewed"
@@ -40698,7 +40654,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "加利福尼亚州人 a加州的",
+        "def_zh": "加利福尼亚州人",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "加州的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -42083,7 +42046,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "资本主义的 n资本家",
+        "def_zh": "资本主义的",
         "def_en": null,
         "examples": [
           {
@@ -42091,6 +42054,13 @@
             "zh": "资本主义制度"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "资本家",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -42787,6 +42757,28 @@
     "culture": null
   },
   {
+    "word": "carefully",
+    "phonetic_us": "ˈkerfəli",
+    "phonetic_uk": "ˈkeəfəli",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "小心地，仔细地，谨慎地",
+        "def_en": "In a way that deliberately avoids harm or error.",
+        "examples": [
+          {
+            "en": "Please read the instructions carefully before starting.",
+            "zh": "开始前请仔细阅读说明书。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "caregiver",
     "phonetic_us": "ˈkerɡɪvər",
     "phonetic_uk": "'keəgɪvə",
@@ -42837,13 +42829,6 @@
             "zh": "谈话不慎有时会给企业带来灾难性的损失。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Careless)人名；(英)凯尔利斯",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -43446,13 +43431,6 @@
             "zh": "木雕椅子"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Carve)人名；(西、瑞典)卡韦",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -44171,13 +44149,6 @@
             "zh": "我们满足一个特殊客户群的需求。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Cater)人名；(英)凯特",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -45125,7 +45096,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "新生代,新生代之岩层 a新生界的",
+        "def_zh": "新生代,新生代之岩层",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "新生界的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -45754,13 +45732,6 @@
       {
         "pos": "pron",
         "def_zh": "某些；某几个",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Certain)人名；(葡)塞尔塔因；(法)塞尔坦",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -47868,7 +47839,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "吱吱的叫声 v吱吱地叫",
+        "def_zh": "吱吱的叫声",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "吱吱地叫",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -48741,6 +48719,28 @@
           {
             "en": "couples who deliberately remain childless",
             "zh": "故意不要孩子的夫妇"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "children",
+    "phonetic_us": "ˈtʃɪldrən",
+    "phonetic_uk": "ˈtʃɪldrən",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "孩子们，儿童（child 的复数形式）",
+        "def_en": "Plural form of child; young human beings below puberty.",
+        "examples": [
+          {
+            "en": "The children are playing happily in the garden.",
+            "zh": "孩子们在花园里开心地玩耍。"
           }
         ],
         "status": "reviewed"
@@ -51172,13 +51172,6 @@
             "zh": "他们在五月份举行了世俗婚礼。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Civil)人名；(土)吉维尔；(法)西维尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -54170,7 +54163,14 @@
     "senses": [
       {
         "pos": "abbr",
-        "def_zh": "货到付款 (Cash on Delivery) n鳕鱼",
+        "def_zh": "货到付款 (Cash on Delivery)",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "鳕鱼",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -55241,13 +55241,6 @@
       {
         "pos": "adj",
         "def_zh": "由收件人付款的",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Collect)人名；(英)科莱克特",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -59264,7 +59257,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "凹的 n凹(面)",
+        "def_zh": "凹的",
         "def_en": null,
         "examples": [
           {
@@ -59272,6 +59265,13 @@
             "zh": "凹透镜"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "凹(面)",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -66779,7 +66779,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "腐蚀的, 蚀坏的 n腐蚀物",
+        "def_zh": "腐蚀的, 蚀坏的",
         "def_en": null,
         "examples": [
           {
@@ -66787,6 +66787,13 @@
             "zh": "一种腐蚀性很强的物质"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "腐蚀物",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -70381,7 +70388,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "[生物]杂种 v异种交配",
+        "def_zh": "[生物]杂种",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "异种交配",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -71294,13 +71308,6 @@
             "zh": "引擎汽缸的容积"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Cubic)人名；(罗)库比克",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -79228,6 +79235,28 @@
     "culture": null
   },
   {
+    "word": "dept.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "abbr",
+        "def_zh": "（机构或政府的）部，司，系，局（department）",
+        "def_en": "Abbreviation for department.",
+        "examples": [
+          {
+            "en": "Contact the Customer Service Dept. for billing inquiries.",
+            "zh": "如需咨询账单问题，请联系客户服务部。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "depth",
     "phonetic_us": "dɛpθ",
     "phonetic_uk": "depθ",
@@ -80833,7 +80862,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "威慑 a遏制的",
+        "def_zh": "威慑",
         "def_en": null,
         "examples": [
           {
@@ -80845,6 +80874,13 @@
             "zh": "监禁的威慑作用"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "遏制的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -82188,13 +82224,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Differ)人名；(法)迪费",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -83091,7 +83120,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "方面;[数] 维；尺寸；次元；容积 vt标出尺寸",
+        "def_zh": "方面;[数] 维；尺寸；次元；容积",
         "def_en": null,
         "examples": [
           {
@@ -83104,6 +83133,13 @@
       {
         "pos": "adj",
         "def_zh": "规格的",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "标出尺寸",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -83268,13 +83304,6 @@
             "zh": "他和朋友在里茨饭店一起进餐。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Dine)人名；(意、葡)迪内；(英)戴恩；(法)迪纳",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -88347,13 +88376,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Dizzy)人名；(英)迪齐",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -91487,13 +91509,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Drown)人名；(英)德朗",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -92253,7 +92268,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "粪 vt施粪肥于",
+        "def_zh": "粪",
         "def_en": null,
         "examples": [
           {
@@ -92261,6 +92276,13 @@
             "zh": "悉尼海港塔龙加动物园的工人因对工资的抗议而拒绝收拾动物粪便。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "施粪肥于",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -92438,13 +92460,6 @@
             "zh": "狐狸白天一直躲藏着。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(During)人名；(法)迪兰；(瑞典、利比)杜林",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -93238,13 +93253,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Eager)人名；(英)伊格",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -93386,13 +93394,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Early)人名；(英)厄尔利",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -93434,13 +93435,6 @@
             "zh": "克里斯会付款的，他在挣大钱。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Earn)人名；(泰)炎",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -97361,13 +97355,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Else)人名；(英)埃尔斯；(德)埃尔泽；(芬、丹)埃尔塞",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -97435,6 +97422,40 @@
           {
             "en": "She enjoys a firm reputation in this country but wider international success has been elusive.",
             "zh": "她在这个国家享有稳固的声誉，但却一直难以在国际上取得更大的成功。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "email",
+    "phonetic_us": "ˈiːmeɪl",
+    "phonetic_uk": "ˈiːmeɪl",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "电子邮件，电邮",
+        "def_en": "Messages distributed by electronic means from one computer user to one or more recipients.",
+        "examples": [
+          {
+            "en": "I received an important email from my supervisor.",
+            "zh": "我收到了一封来自导师的重要邮件。"
+          }
+        ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "给……发电子邮件",
+        "def_en": "To send an email to someone.",
+        "examples": [
+          {
+            "en": "Email me the report as soon as it is ready.",
+            "zh": "报告准备好后请立即发邮件给我。"
           }
         ],
         "status": "reviewed"
@@ -101339,13 +101360,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Entire)人名；(英)恩泰尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -102449,7 +102463,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "骑马的 n骑手",
+        "def_zh": "骑马的",
         "def_en": null,
         "examples": [
           {
@@ -102457,6 +102471,13 @@
             "zh": "马术运动"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "骑手",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -102471,7 +102492,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "等边的 n等边形",
+        "def_zh": "等边的",
         "def_en": null,
         "examples": [
           {
@@ -102479,6 +102500,13 @@
             "zh": "...一个等边三角形。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "等边形",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -104467,13 +104495,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Even)人名；(法)埃旺；(德)埃文；(英)埃文",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -104677,13 +104698,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ever)人名；(英)埃弗；(俄)叶韦尔；(西、法)埃韦尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -104781,13 +104795,6 @@
             "zh": "他说的每句话都会被细查。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Every)人名；(英)埃夫里",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -106050,6 +106057,28 @@
           {
             "en": "His playing is technically brilliant, but it doesn’t excite me.",
             "zh": "他的演奏技巧娴熟，但并不让我激动。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "excited",
+    "phonetic_us": "ɪkˈsaɪtɪd",
+    "phonetic_uk": "ɪkˈsaɪtɪd",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adj",
+        "def_zh": "激动的，兴奋的，极其高兴的",
+        "def_en": "Very enthusiastic and eager.",
+        "examples": [
+          {
+            "en": "The students were excited about the upcoming school trip.",
+            "zh": "学生们对即将到来的学校郊游兴奋不已。"
           }
         ],
         "status": "reviewed"
@@ -110538,13 +110567,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Fairly)人名；(英)费尔利",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -111563,17 +111585,15 @@
     "tag": "toefl",
     "senses": [
       {
-        "pos": "n",
-        "def_zh": "ad&",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "adj",
-        "def_zh": "呈扇形展开的",
-        "def_en": null,
-        "examples": [],
+        "pos": "adv",
+        "def_zh": "成扇形地，如扇面展开地",
+        "def_en": "Spreading out in the shape of an open fan.",
+        "examples": [
+          {
+            "en": "The search party spread fanwise across the hillside.",
+            "zh": "搜救队在山坡上呈扇形展开排查。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -112107,13 +112127,6 @@
       {
         "pos": "v",
         "def_zh": "使固定；集中于；扎牢；强加于",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Fasten)人名；(英)法森",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -113287,13 +113300,6 @@
       {
         "pos": "adv",
         "def_zh": "联邦政府地",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Federal)人名；(英)费德勒尔",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -114935,13 +114941,6 @@
             "zh": "城里的激烈战斗"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Fierce)人名；(英)菲尔斯",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -117339,13 +117338,6 @@
       {
         "pos": "v",
         "def_zh": "燃烧；变亮；发光（flame的ing形式）",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Flaming)人名；(法)弗拉曼",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -120057,13 +120049,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Fond)人名；(法)丰；(瑞典)丰德",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -120722,7 +120707,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "浅滩 v徒涉",
+        "def_zh": "浅滩",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "徒涉",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -122589,13 +122581,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Four)人名；(西)福尔；(法)富尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -123043,6 +123028,28 @@
     "culture": null
   },
   {
+    "word": "franc",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "法郎（法国、瑞士等国货币单位）",
+        "def_en": "The basic monetary unit of Switzerland, and formerly of France.",
+        "examples": [
+          {
+            "en": "She exchanged her euros for Swiss francs.",
+            "zh": "她把欧元兑换成了瑞士法郎。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "france",
     "phonetic_us": "",
     "phonetic_uk": "frɑːns",
@@ -123361,13 +123368,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Free)人名；(英)弗里",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -123675,7 +123675,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "狂暴, 狂怒 vt使发狂",
+        "def_zh": "狂暴, 狂怒",
         "def_en": null,
         "examples": [
           {
@@ -123683,6 +123683,13 @@
             "zh": "多琳一阵狂怒。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "使发狂",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -123778,7 +123785,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "壁画 vt作壁画于",
+        "def_zh": "壁画",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "作壁画于",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -124170,13 +124184,6 @@
       {
         "pos": "adv",
         "def_zh": "友善地；温和地",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Friendly)人名；(英)弗兰德利",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -127037,7 +127044,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "花环 vt戴花环",
+        "def_zh": "花环",
         "def_en": null,
         "examples": [
           {
@@ -127045,6 +127052,13 @@
             "zh": "她们穿着配有米色腰带的蓝色丝质连衣裙，头上戴着夏季的花儿编成的花环。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "戴花环",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -127637,7 +127651,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "凝胶体 v成冻胶",
+        "def_zh": "凝胶体",
         "def_en": null,
         "examples": [
           {
@@ -127649,6 +127663,13 @@
             "zh": "沐浴露"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "成冻胶",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -129632,7 +129653,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "杜松烧酒  v开始",
+        "def_zh": "杜松烧酒",
         "def_en": null,
         "examples": [
           {
@@ -129640,6 +129661,13 @@
             "zh": "…又一杯加奎宁水的杜松子酒。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "开始",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -130054,13 +130082,6 @@
       {
         "pos": "vt",
         "def_zh": "使高兴",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Glad)人名；(塞、瑞典)格拉德；(英)格莱德；(法、挪)格拉",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -131500,13 +131521,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Golden)人名；(英、法、罗、德、瑞典)戈尔登",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -131691,12 +131705,39 @@
           }
         ],
         "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "goodbye",
+    "phonetic_us": "ɡʊdˈbaɪ",
+    "phonetic_uk": "ɡʊdˈbaɪ",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "int",
+        "def_zh": "再见，告别",
+        "def_en": "Used to express good wishes when parting.",
+        "examples": [
+          {
+            "en": "She waved and said goodbye to her friends.",
+            "zh": "她挥手向朋友们道别说再见。"
+          }
+        ],
+        "status": "reviewed"
       },
       {
         "pos": "n",
-        "def_zh": "(Goodby)人名；(英)古德拜",
-        "def_en": null,
-        "examples": [],
+        "def_zh": "告别，辞别",
+        "def_en": "An instance of saying farewell.",
+        "examples": [
+          {
+            "en": "It was difficult to say a final goodbye.",
+            "zh": "作最后的道别总是令人伤感。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -131925,7 +131966,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "蛛丝，薄纱  a轻而薄的",
+        "def_zh": "蛛丝，薄纱",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "轻而薄的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -132129,13 +132177,6 @@
             "zh": "该党执政已经有七个月了。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Govern)人名；(英)戈文",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -133974,7 +134015,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "希腊的, 希腊式的 n希腊学家",
+        "def_zh": "希腊的, 希腊式的",
         "def_en": null,
         "examples": [
           {
@@ -133982,6 +134023,13 @@
             "zh": "希腊古瓮"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "希腊学家",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -134233,13 +134281,6 @@
             "zh": "贝琳达热情地招呼她。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Greet)人名；(英)格里特",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -134873,7 +134914,7 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "刷洗 n新郎；马夫",
+        "def_zh": "刷洗",
         "def_en": null,
         "examples": [
           {
@@ -134881,6 +134922,13 @@
             "zh": "这些马受到特殊的训练和照料。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "新郎；马夫",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -135264,13 +135312,6 @@
             "zh": "这些植物在河边自然生长。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Grow)人名；(英)格罗",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -136626,13 +136667,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ha)人名；(德)哈；(日)巴 (姓)",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -137416,7 +137450,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "锤头 a锤头状的, 鲁钝的",
+        "def_zh": "锤头",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "锤头状的, 鲁钝的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -137998,13 +138039,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Handy)人名；(英)汉迪",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -138232,13 +138266,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Happy)人名；(英、瑞典、喀)哈皮",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -138370,13 +138397,6 @@
       {
         "pos": "adv",
         "def_zh": "努力地；困难地；辛苦地；接近地；猛烈地；牢固地",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Hard)人名；(英、芬、瑞典)哈德",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -141274,7 +141294,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "边,缘 v给缝边",
+        "def_zh": "边,缘",
         "def_en": null,
         "examples": [
           {
@@ -141282,6 +141302,13 @@
             "zh": "女裁缝用褶裥饰边给女上衣镶边。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "给缝边",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -142110,13 +142137,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Hers)人名；(法)埃尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -142374,13 +142394,6 @@
             "zh": "嘿！好久不见。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Hi)人名；(柬)希",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -142960,13 +142973,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Hilly)人名；(阿拉伯)希利",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -143000,13 +143006,6 @@
             "zh": "我一听声音就知道是他。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Him)人名；(东南亚国家华语)欣；(柬)亨；(中)谦(广东话·威妥玛)",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -143309,13 +143308,6 @@
             "zh": "他向我说明了他的观点。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(His)人名；(法)伊斯",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -145037,7 +145029,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "蹄 v踢",
+        "def_zh": "蹄",
         "def_en": null,
         "examples": [
           {
@@ -145045,6 +145037,13 @@
             "zh": "这些马的蹄子经常踩不稳。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "踢",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -145975,12 +145974,27 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "hotdog",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
       {
         "pos": "n",
-        "def_zh": "(Hot)人名；(塞)霍特；(法)奥特",
-        "def_en": null,
-        "examples": [],
+        "def_zh": "热狗（夹热香肠的细长面包）",
+        "def_en": "A hot cooked sausage served in a sliced long soft bun.",
+        "examples": [
+          {
+            "en": "We bought hotdogs and drinks at the baseball game.",
+            "zh": "我们在棒球比赛现场买了热狗和饮料。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -146645,13 +146659,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Huge)人名；(英)休奇",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -146795,6 +146802,28 @@
         "def_zh": "人；人类",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "human being",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "人，人类",
+        "def_en": "A man, woman, or child of the species Homo sapiens.",
+        "examples": [
+          {
+            "en": "Every human being deserves dignity and basic respect.",
+            "zh": "每一个人都应当享有尊严与基本尊重。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -148714,6 +148743,28 @@
         "def_zh": "冰的",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "ice-cream",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "冰淇淋",
+        "def_en": "A sweet frozen food made from milk and cream with flavorings.",
+        "examples": [
+          {
+            "en": "Eating chocolate ice-cream is delightful on a hot summer day.",
+            "zh": "在炎热的夏日吃巧克力冰淇淋十分享受。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -152101,7 +152152,7 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "使怀孕, 使受精 a怀孕的, 充满的",
+        "def_zh": "使怀孕, 使受精",
         "def_en": null,
         "examples": [
           {
@@ -152109,6 +152160,13 @@
             "zh": "卧底警官发现了用于使迷幻药渗入纸张的毒品制造设备。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "怀孕的, 充满的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -153836,6 +153894,28 @@
           {
             "en": "The curriculum includes courses in computing.",
             "zh": "课程内容包括计算机技术。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "including",
+    "phonetic_us": "ɪnˈkluːdɪŋ",
+    "phonetic_uk": "ɪnˈkluːdɪŋ",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "prep",
+        "def_zh": "包括，包含在内",
+        "def_en": "Containing as part of the whole being considered.",
+        "examples": [
+          {
+            "en": "The tour price is $100, including lunch and museum entry.",
+            "zh": "旅游费用为100美元，包含午餐和博物馆门票。"
           }
         ],
         "status": "reviewed"
@@ -161412,6 +161492,28 @@
     "culture": null
   },
   {
+    "word": "interested",
+    "phonetic_us": "ˈɪntrəstɪd",
+    "phonetic_uk": "ˈɪntrəstɪd",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adj",
+        "def_zh": "感兴趣的，有兴趣的；关心的",
+        "def_en": "Showing curiosity or concern about something.",
+        "examples": [
+          {
+            "en": "She is deeply interested in ancient history.",
+            "zh": "她对古代历史深感兴趣。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "interesting",
     "phonetic_us": "'ɪntrəstɪŋ",
     "phonetic_uk": "'ɪnt(ə)rɪstɪŋ",
@@ -162834,13 +162936,6 @@
             "zh": "我们跳进海里。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Into)人名；(芬、英)因托",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -165708,13 +165803,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Its)人名；(俄)伊茨",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -166127,7 +166215,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "颚骨, 下颚骨, 信用 v赊买",
+        "def_zh": "颚骨, 下颚骨, 信用",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "赊买",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -167939,13 +168034,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Just)人名；(英)贾斯特；(法)朱斯特；(德、匈、波、捷、挪)尤斯特；(西)胡斯特",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -169409,7 +169497,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "结 v纠结,纽绞",
+        "def_zh": "结",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "纠结,纽绞",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -170125,7 +170220,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "韩国人, 韩国语 a朝鲜人的, 朝鲜语的",
+        "def_zh": "韩国人, 韩国语",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "朝鲜人的, 朝鲜语的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -172391,13 +172493,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Latter)人名；(英、德、捷)拉特",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -173041,13 +173136,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Lazy)人名；(德)拉齐",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -173563,13 +173651,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Learned)人名；(英)勒尼德",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -174007,13 +174088,6 @@
             "zh": "争取大麻合法化的压力团体"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Legal)人名；(法)勒加尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -177821,13 +177895,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Live)人名；(法)利夫",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -177905,13 +177972,6 @@
             "zh": "精力充沛的孩子"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Lively)人名；(英)莱夫利",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -179977,13 +180037,6 @@
       {
         "pos": "adv",
         "def_zh": "大声地，高声地，响亮地",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Loud)人名；(英)劳德",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -184907,7 +184960,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "栗色 a栗色的",
+        "def_zh": "栗色",
         "def_en": null,
         "examples": [
           {
@@ -184919,6 +184972,13 @@
             "zh": "慌乱中，我随手抓起一件栗色的连衣裙，给在巴林女士怀里的克丽丝汀换上，——可怜的克丽丝汀，她还穿着那件薄衬衣。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "栗色的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -185057,13 +185117,6 @@
             "zh": "索菲娅在某种意义上是下嫁了。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Marry)人名；(阿拉伯)马雷；(法)马里",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -188958,7 +189011,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "商品,货物 v买卖",
+        "def_zh": "商品,货物",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "买卖",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -194015,7 +194075,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "密西西比河的 n密西西比州人",
+        "def_zh": "密西西比河的",
         "def_en": null,
         "examples": [
           {
@@ -194023,6 +194083,13 @@
             "zh": "卡霍基亚是密西西比文化最大的一个中心，也是密西西比最大的一个居住区。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "密西西比州人",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -195437,7 +195504,7 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "弄湿 vi变潮湿",
+        "def_zh": "弄湿",
         "def_en": null,
         "examples": [
           {
@@ -195445,6 +195512,13 @@
             "zh": "如果黏土太干，就把它润润湿。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "变潮湿",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -197388,7 +197462,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "灰泥,迫击炮 vt用灰泥结合",
+        "def_zh": "灰泥,迫击炮",
         "def_en": null,
         "examples": [
           {
@@ -197400,6 +197474,13 @@
             "zh": "迫击炮轰击"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "用灰泥结合",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -197469,7 +197550,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "榫眼  v用榫接合",
+        "def_zh": "榫眼",
         "def_en": null,
         "examples": [
           {
@@ -197477,6 +197558,13 @@
             "zh": "并且这个床上没有任何金属连接物，床腿和床板之间都是榫接的，工匠巧妙地凿好榫眼，将这个床组合在一起。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "用榫接合",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -198158,7 +198246,14 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "使有斑点 n杂色, 斑点",
+        "def_zh": "使有斑点",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "杂色, 斑点",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -198735,6 +198830,50 @@
           {
             "en": "...Mr. Bob Price.",
             "zh": "…鲍勃·普赖斯先生。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "mrs.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "夫人，太太（用于已婚女性姓氏前）",
+        "def_en": "Title of respect prefixed to the surname of a married woman.",
+        "examples": [
+          {
+            "en": "Mrs. Smith has been teaching high school English for twenty years.",
+            "zh": "史密斯太太在高中教英语已有二十年了。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "ms.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "女士（用于女性姓名前，不论婚否）",
+        "def_en": "Title of respect used before the surname of a woman regardless of marital status.",
+        "examples": [
+          {
+            "en": "Ms. Johnson delivered the keynote address at the conference.",
+            "zh": "约翰逊女士在大会上作了主旨演讲。"
           }
         ],
         "status": "reviewed"
@@ -199433,6 +199572,50 @@
     "culture": null
   },
   {
+    "word": "mum",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "妈妈（英式口语）",
+        "def_en": "One's mother (British informal).",
+        "examples": [
+          {
+            "en": "Mum made delicious soup for dinner.",
+            "zh": "妈妈晚餐煲了美味的靓汤。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "mummy",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "① 妈妈（幼儿称呼） ② 木乃伊",
+        "def_en": "Mother (child's word); or a preserved body of a human or animal.",
+        "examples": [
+          {
+            "en": "The museum has ancient Egyptian mummies on display.",
+            "zh": "博物馆里展出了古埃及木乃伊。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "mundane",
     "phonetic_us": "mʌn'den",
     "phonetic_uk": "'mʌndeɪn; mʌn'deɪn",
@@ -199489,7 +199672,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "墙壁的  n壁画",
+        "def_zh": "墙壁的",
         "def_en": null,
         "examples": [
           {
@@ -199497,6 +199680,13 @@
             "zh": "这幅画显然和《最后的晚餐》有某种关联：画中的基督，和达·芬奇最伟大的壁画中心那已褪色的基督形象一样，同样空灵缥缈。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "壁画",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -200191,13 +200381,6 @@
       {
         "pos": "int",
         "def_zh": "哎呀（表示惊奇等）；喔唷",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(My)人名；(越)美；(老、柬)米",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -201539,9 +201722,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "=naught无，零",
-        "def_en": null,
-        "examples": [],
+        "def_zh": "零；无，虚无（同 nought，常用于 come to naught 化为泡影）",
+        "def_en": "Nothing; the numerical figure 0.",
+        "examples": [
+          {
+            "en": "All our careful preparations came to naught after the event was canceled.",
+            "zh": "活动取消后，我们所有的周密准备都化为了泡影。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -203824,13 +204012,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(New)人名；(英)纽",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -204186,13 +204367,6 @@
             "zh": "圣诞节的一个好处是全家可以聚首一堂。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Nice)人名；(英)尼斯",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -204922,6 +205096,28 @@
     "culture": null
   },
   {
+    "word": "no.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "abbr",
+        "def_zh": "第……号，号码（number）",
+        "def_en": "Abbreviation for number (from Italian numero).",
+        "examples": [
+          {
+            "en": "Room No. 204 is on the second floor.",
+            "zh": "204号房间在二楼。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "nobility",
     "phonetic_us": "no'bɪləti",
     "phonetic_uk": "nə(ʊ)'bɪlɪtɪ",
@@ -205416,7 +205612,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "不信奉英国国教的 n非国教徒",
+        "def_zh": "不信奉英国国教的",
         "def_en": null,
         "examples": [
           {
@@ -205424,6 +205620,13 @@
             "zh": "他们的看法与众不同，政治观点也很极端。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "非国教徒",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -205487,13 +205690,6 @@
       {
         "pos": "adv",
         "def_zh": "决不，一点也不",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(None)人名；(葡、罗)诺内；(日)野根(姓)",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -205974,13 +206170,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Nor)人名；(中)挪(广东话·威妥玛)；(马来、俄)诺尔；(柬)诺",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -206423,7 +206612,14 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "挪威的 n挪威人, 挪威语",
+        "def_zh": "挪威的",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "挪威人, 挪威语",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -208409,6 +208605,28 @@
     "culture": null
   },
   {
+    "word": "o'clock",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "……点钟（用于表示整点时间）",
+        "def_en": "Used after a number from one to twelve to specify the hour.",
+        "examples": [
+          {
+            "en": "The library opens at eight o'clock every morning.",
+            "zh": "图书馆每天早晨八点钟开门。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "oak",
     "phonetic_us": "ok",
     "phonetic_uk": "əuk",
@@ -208811,7 +209029,7 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "使负义务 a有责任的",
+        "def_zh": "使负义务",
         "def_en": null,
         "examples": [
           {
@@ -208819,6 +209037,13 @@
             "zh": "这一裁决迫使航空公司公布航班晚点信息。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "有责任的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -211157,6 +211382,62 @@
     "culture": null
   },
   {
+    "word": "olympic",
+    "phonetic_us": "oʊˈlɪmpɪk",
+    "phonetic_uk": "əˈlɪmpɪk",
+    "frequency": null,
+    "tag": "gk zk",
+    "senses": [
+      {
+        "pos": "adj",
+        "def_zh": "奥林匹克的，奥运会的",
+        "def_en": "Relating to the ancient or modern Olympic Games.",
+        "examples": [
+          {
+            "en": "She trained rigorously to qualify for the Olympic team.",
+            "zh": "她刻苦训练以期获得进入奥运代表队的资格。"
+          }
+        ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "(the Olympics) 奥林匹克运动会",
+        "def_en": "The Olympic Games.",
+        "examples": [
+          {
+            "en": "The city hosted the Winter Olympics last year.",
+            "zh": "该市去年主办了冬季奥林匹克运动会。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "olympics",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "奥林匹克运动会，奥运会",
+        "def_en": "The modern Olympic Games.",
+        "examples": [
+          {
+            "en": "Athletes from over 200 nations competed at the Olympics.",
+            "zh": "来自200多个国家和地区的运动员在奥运会上同场竞技。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "omelette",
     "phonetic_us": "'ɒmlət",
     "phonetic_uk": "'ɒmlɪt",
@@ -211274,7 +211555,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "公共汽车, 精选集 a综合性的",
+        "def_zh": "公共汽车, 精选集",
         "def_en": null,
         "examples": [
           {
@@ -211282,6 +211563,13 @@
             "zh": "《小溪边》的周六综合版"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "综合性的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -211342,13 +211630,6 @@
       {
         "pos": "adj",
         "def_zh": "开着的；发生着的，正在进行中",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(On)人名；(日)温(姓、名)；(缅、柬、印)翁",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -211921,7 +212202,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "软泥 v渗出",
+        "def_zh": "软泥",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "渗出",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -212961,13 +213249,6 @@
             "zh": "你必须自己做这件事，或者就雇别人去做。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Or)人名；(中)柯(广东话·威妥玛)；(柬)奥；(土、匈、土库、阿塞、瑞典)奥尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -214701,13 +214982,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ours)人名；(法)乌尔斯",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -215204,7 +215478,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "除气 v除气 a释气的",
+        "def_zh": "除气",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "除气 a释气的",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -216209,13 +216490,6 @@
       {
         "pos": "vt",
         "def_zh": "越过",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Over)人名；(俄、西、土)奥韦尔",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -217864,13 +218138,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Owe)人名；(瑞典、挪)奥弗",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -218207,6 +218474,50 @@
           {
             "en": "The synergistic effect of oxygen and (or ) ozone in atmosphere with ultraviolet also led to the adhesion failure of adhesive.",
             "zh": "大气中的氧和（或）臭氧与紫外线协同作用是导致该压敏粘合剂失粘的原因。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "p.e.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "abbr",
+        "def_zh": "体育，体育课（Physical Education）",
+        "def_en": "Physical education; gymnastics and sports taught as a school subject.",
+        "examples": [
+          {
+            "en": "We played basketball during P.E. class today.",
+            "zh": "我们今天在体育课上打了篮球。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "p.m.",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "下午，午后（源自拉丁语 post meridiem）",
+        "def_en": "After noon; in the afternoon or evening.",
+        "examples": [
+          {
+            "en": "The train departs at 3:30 p.m.",
+            "zh": "火车于下午3点30分准时发车。"
           }
         ],
         "status": "reviewed"
@@ -219417,7 +219728,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "狭长地带 v乞讨",
+        "def_zh": "狭长地带",
         "def_en": null,
         "examples": [
           {
@@ -219425,6 +219736,13 @@
             "zh": "得克萨斯锅柄地带"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "乞讨",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -222609,6 +222927,28 @@
     "culture": null
   },
   {
+    "word": "pc",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "abbr",
+        "def_zh": "个人电脑（Personal Computer）；政治正确（Politically Correct）",
+        "def_en": "Personal computer.",
+        "examples": [
+          {
+            "en": "He upgraded his desktop PC with a faster graphics card.",
+            "zh": "他给自己的台式电脑升级了更快的显卡。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "pea",
     "phonetic_us": "pi",
     "phonetic_uk": "piː",
@@ -223546,7 +223886,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "投掷, 毛皮 v剥的皮, 投掷",
+        "def_zh": "投掷, 毛皮",
         "def_en": null,
         "examples": [
           {
@@ -223554,6 +223894,13 @@
             "zh": "…一张铺着海狸皮的床。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "剥的皮, 投掷",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -223663,6 +224010,28 @@
           {
             "en": "If he is convicted, he could receive the death penalty (= be killed as a punishment ) .",
             "zh": "一旦定罪，他可能会被判处死刑。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "pence",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "便士（penny 的复数形式，英国辅币单位）",
+        "def_en": "Plural of penny (monetary unit).",
+        "examples": [
+          {
+            "en": "A stamp costs seventy pence.",
+            "zh": "一张邮票售价70便士。"
           }
         ],
         "status": "reviewed"
@@ -224166,13 +224535,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Per)人名；(德、挪、丹、瑞典)佩尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -224477,7 +224839,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "游隼 a外来的,移住的",
+        "def_zh": "游隼",
         "def_en": null,
         "examples": [
           {
@@ -224485,6 +224847,13 @@
             "zh": "这里的额外好处包括了一个雪茄俱乐部，世界上最快速的电梯，以及当游隼迁徙飞过你的绝对密封的巨大玻璃窗户时，抓住它们的机会。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "外来的,移住的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -228697,7 +229066,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "长枪, 梭子鱼 vt用矛刺穿",
+        "def_zh": "长枪, 梭子鱼",
         "def_en": null,
         "examples": [
           {
@@ -228705,6 +229074,13 @@
             "zh": "…一块梭鱼冻。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "用矛刺穿",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -229060,6 +229436,28 @@
         "def_zh": "凤梨科的",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "ping-pong",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "乒乓球，乒乓球运动",
+        "def_en": "Table tennis.",
+        "examples": [
+          {
+            "en": "They enjoy playing ping-pong after work.",
+            "zh": "他们下班后喜欢打乒乓球放松。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -229744,7 +230142,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "胎盘的 n有胎盘哺乳动物",
+        "def_zh": "胎盘的",
         "def_en": null,
         "examples": [
           {
@@ -229752,6 +230150,13 @@
             "zh": ""
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "有胎盘哺乳动物",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -230939,13 +231344,6 @@
             "zh": "凯特！真是让人惊喜！"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Pleasant)人名；(英)普莱曾特",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -232596,6 +232994,28 @@
     "culture": null
   },
   {
+    "word": "policewoman",
+    "phonetic_us": "pəˈliːswʊmən",
+    "phonetic_uk": "pəˈliːswʊmən",
+    "frequency": null,
+    "tag": "gk zk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "女警，女警察",
+        "def_en": "A female member of a police force.",
+        "examples": [
+          {
+            "en": "The policewoman helped the lost child find his parents.",
+            "zh": "女警帮助迷路的孩子找到了父母。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "policy",
     "phonetic_us": "'pɑləsi",
     "phonetic_uk": "'pɒləsɪ",
@@ -233064,7 +233484,14 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "彩饰的 n多彩艺术品",
+        "def_zh": "彩饰的",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "多彩艺术品",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -233476,13 +233903,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Poor)人名；(英、伊朗)普尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -233522,7 +233942,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "不舒服的  ad贫穷地",
+        "def_zh": "不舒服的",
         "def_en": null,
         "examples": [
           {
@@ -233530,6 +233950,13 @@
             "zh": "马特的妻子身体一直不好。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adv",
+        "def_zh": "贫穷地",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -234895,7 +235322,14 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "填迟的日期 n事后日期",
+        "def_zh": "填迟的日期",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "事后日期",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -236232,13 +236666,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Pray)人名；(匈)普劳伊；(英)普雷",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -236512,13 +236939,6 @@
             "zh": "我们星球上的宝贵资源"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Precious)人名；(英)普雷舍斯，普雷舍丝(女名)",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -238193,7 +238613,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "预兆 v预示",
+        "def_zh": "预兆",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "预示",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -240804,7 +241231,14 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "长鼻类的 n长鼻目动物",
+        "def_zh": "长鼻类的",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "长鼻目动物",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -242933,13 +243367,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Proper)人名；(英、德)普罗珀",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -243946,13 +244373,6 @@
             "zh": "赛思因为有了新跑车而扬扬得意。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Proud)人名；(英)普劳德",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -245761,13 +246181,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Pure)人名；(俄)普雷",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -245884,7 +246297,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "清教徒 a清教徒的",
+        "def_zh": "清教徒",
         "def_en": null,
         "examples": [
           {
@@ -245892,6 +246305,13 @@
             "zh": "贝科夫忘记了马利宁是个近乎清教徒式的人。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "清教徒的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -249190,13 +249610,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Rainy)人名；(英)雷尼",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -250131,13 +250544,6 @@
       {
         "pos": "int",
         "def_zh": "当然啦（回答问题时用）",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Rather)人名；(英)拉瑟",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -252763,7 +253169,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "畏缩, 弹回 vi退却, 畏缩",
+        "def_zh": "畏缩, 弹回",
         "def_en": null,
         "examples": [
           {
@@ -252771,6 +253177,13 @@
             "zh": "…他小小身体在他大声的叫喊中畏缩地抽搐着。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "退却, 畏缩",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -259464,7 +259877,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "名誉, 名声 v认为",
+        "def_zh": "名誉, 名声",
         "def_en": null,
         "examples": [
           {
@@ -259472,6 +259885,13 @@
             "zh": "在他的领导下，联合国的名望得到了极大提升。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "认为",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -260291,10 +260711,19 @@
     "tag": "toefl",
     "senses": [
       {
-        "pos": "n",
-        "def_zh": "帕特森（美国一座城市）",
-        "def_en": null,
-        "examples": [],
+        "pos": "adj",
+        "def_zh": "有弹性的，能复原的；有适应力的，坚韧不拔的",
+        "def_en": "Able to recoil or spring back into shape after bending, stretching, or being compressed; able to withstand or recover quickly from difficult conditions.",
+        "examples": [
+          {
+            "en": "The local community proved resilient in the face of the economic crisis.",
+            "zh": "面对经济危机，当地社区展现出了极大的韧性与复原能力。"
+          },
+          {
+            "en": "Rubber is a highly resilient material that quickly bounces back.",
+            "zh": "橡胶是一种极具弹性的材料，能迅速复原。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -260309,7 +260738,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "树脂 vt涂树脂于",
+        "def_zh": "树脂",
         "def_en": null,
         "examples": [
           {
@@ -260317,6 +260746,13 @@
             "zh": "…定期被采割树脂的一棵热带树。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "涂树脂于",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -263268,13 +263704,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Rich)人名；(丹)里克；(捷)里赫；(英、西)里奇；(葡、法)里什",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -263340,13 +263769,6 @@
             "zh": "这些提议是使该国摆脱政治腐败的一种尝试。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Rid)人名；(英)里德",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -263849,7 +264271,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "结晶, v使蒙霜",
+        "def_zh": "结晶,",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "使蒙霜",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -264024,13 +264453,6 @@
       {
         "pos": "vi",
         "def_zh": "进行搜查",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ripe)人名；(意、瑞典)里佩",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -265338,7 +265760,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "白嘴鸦；赌棍  vt骗",
+        "def_zh": "白嘴鸦；赌棍",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "骗",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -265541,6 +265970,13 @@
         "status": "reviewed"
       },
       {
+        "pos": "rise",
+        "def_zh": "的过去式)；升起；（数量）增加；休会",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
         "pos": "vt",
         "def_zh": "使成玫瑰色，使（面颊）发红；使有玫瑰香味",
         "def_en": null,
@@ -265549,7 +265985,7 @@
       },
       {
         "pos": "vi",
-        "def_zh": "起义( rise的过去式)；升起；（数量）增加；休会",
+        "def_zh": "起义(",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -267149,7 +267585,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "定例, 惯例 v在形成车辙",
+        "def_zh": "定例, 惯例",
         "def_en": null,
         "examples": [
           {
@@ -267157,6 +267593,13 @@
             "zh": "我不喜欢一成不变–我喜欢不断前进。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "在形成车辙",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -267708,7 +268151,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "智慧的  n智者",
+        "def_zh": "智慧的",
         "def_en": null,
         "examples": [
           {
@@ -267716,6 +268159,13 @@
             "zh": "明智的忠告"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "智者",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -268550,13 +269000,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Same)人名；(意)萨梅",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -268984,7 +269427,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "树液  vt耗尽",
+        "def_zh": "树液",
         "def_en": null,
         "examples": [
           {
@@ -268992,6 +269435,13 @@
             "zh": "树叶、树皮和树液也是当地草药疗法的常用药材。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "耗尽",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -269962,7 +270412,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "诡计 v诓骗",
+        "def_zh": "诡计",
         "def_en": null,
         "examples": [
           {
@@ -269970,6 +270420,13 @@
             "zh": "他卷入了一桩信用卡诈骗事件。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "诓骗",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -270933,6 +271390,50 @@
     "culture": null
   },
   {
+    "word": "schoolboy",
+    "phonetic_us": "ˈskuːlbɔɪ",
+    "phonetic_uk": "ˈskuːlbɔɪ",
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "（中小学）男学生，男生",
+        "def_en": "A boy who attends school.",
+        "examples": [
+          {
+            "en": "The schoolboys gathered on the playground to play soccer.",
+            "zh": "男学生们聚集在操场上踢足球。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "schoolgirl",
+    "phonetic_us": "ˈskuːlɡɜːrl",
+    "phonetic_uk": "ˈskuːlɡɜːl",
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "（中小学）女学生，女生",
+        "def_en": "A girl who attends school.",
+        "examples": [
+          {
+            "en": "The schoolgirls wore matching navy blue uniforms.",
+            "zh": "女学生们穿着统一的海军蓝校服。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "schoolmate",
     "phonetic_us": "'skʊl'met",
     "phonetic_uk": "'skuːlmeɪt",
@@ -271571,7 +272072,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "愁容, 皱眉 v皱眉",
+        "def_zh": "愁容, 皱眉",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "皱眉",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -272417,7 +272925,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "海岸, 沿海地方 a海滨的",
+        "def_zh": "海岸, 沿海地方",
         "def_en": null,
         "examples": [
           {
@@ -272425,6 +272933,13 @@
             "zh": "...美国东部沿海地区。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "海滨的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -273994,13 +274509,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Seem)人名；(英)西姆",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -274675,29 +275183,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "n.",
-        "def_en": null,
+        "def_zh": "半导体；半导体元件（集成电路和芯片的核心基石）",
+        "def_en": "A solid substance that conducts electricity under some conditions but not others, making it a good medium for the control of electrical current.",
         "examples": [
           {
-            "en": "In semiconductor receivers transistors take the place of vacuum tubes.",
-            "zh": "在半导体收音机中晶体管代替了真空管。"
-          },
-          {
-            "en": "What was happening was this: in its pure state of repeating units of one titanium and two oxygen atoms, titanium dioxide is a semiconductor.",
-            "zh": "发生的事是这样的：在纯净的一个钛和两个氧原子组成的重复单位下，二氧化钛是一种半导体。"
-          },
-          {
-            "en": "They can then be printed onto a roll of metal foil that becomes a continuous semiconductor.",
-            "zh": "然后他们可以把这种墨水印刷在一卷金属箔上，从而制成连续的半导体。"
+            "en": "The global automotive industry faced a shortage of semiconductor chips.",
+            "zh": "全球汽车工业面临着半导体芯片短缺的问题。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "半导体",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -275698,7 +276191,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "平静的 n宁静",
+        "def_zh": "平静的",
         "def_en": null,
         "examples": [
           {
@@ -275710,6 +276203,13 @@
             "zh": "静谧的山间湖泊"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "宁静",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -275844,6 +276344,28 @@
           {
             "en": "The president was in serious trouble .",
             "zh": "总统遇到大麻烦了。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "seriously",
+    "phonetic_us": "ˈsɪriəsli",
+    "phonetic_uk": "ˈsɪəriəsli",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "严肃地，认真地；严重地；说真的",
+        "def_en": "In a solemn or considered manner; severely; really.",
+        "examples": [
+          {
+            "en": "You need to take your studies more seriously.",
+            "zh": "你需要更认真地对待学业。"
           }
         ],
         "status": "reviewed"
@@ -280083,7 +280605,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "震动 vi战栗, 发抖",
+        "def_zh": "震动",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "战栗, 发抖",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -280509,6 +281038,28 @@
         "def_zh": "副业, 边界线",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "sideroad",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "支路，岔道，旁道",
+        "def_en": "A road leading off a major highway or street.",
+        "examples": [
+          {
+            "en": "Turn down the quiet sideroad to reach the village.",
+            "zh": "拐进那条幽静的岔路就能到达村庄。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -283311,6 +283862,28 @@
     "culture": null
   },
   {
+    "word": "skilful",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "adj",
+        "def_zh": "熟练的，精湛的，灵巧的（美式常作 skillful）",
+        "def_en": "Having or showing knowledge and ability and aptitude.",
+        "examples": [
+          {
+            "en": "Thanks to skilful driving, he avoided the accident.",
+            "zh": "由于高超的驾驶技术，他避免了一场事故。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "skill",
     "phonetic_us": "skɪl",
     "phonetic_uk": "skɪl",
@@ -284596,13 +285169,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Slim)人名；(阿拉伯)萨利姆；(英、西)斯利姆",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -285085,13 +285651,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Slow)人名；(英)斯洛",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -285334,7 +285893,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "烂泥 v溅湿",
+        "def_zh": "烂泥",
         "def_en": null,
         "examples": [
           {
@@ -285342,6 +285901,13 @@
             "zh": "前轮驱动的汽车在雪中和雪泥中开得更好。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "溅湿",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -285381,13 +285947,6 @@
             "zh": "他俯身向前诡秘地一笑。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Sly)人名；(英)斯莱",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -285486,13 +286045,6 @@
             "zh": "他决定要做导演，这是明智之举。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Smart)人名；(法)斯马尔；(英、德)斯马特",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -286834,13 +287386,6 @@
       {
         "pos": "pron",
         "def_zh": "这样",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(So)人名；(柬)索",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -289529,7 +290074,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "向南方的 ad在南方",
+        "def_zh": "向南方的",
         "def_en": null,
         "examples": [
           {
@@ -289537,6 +290082,13 @@
             "zh": "塔拉朝南走去。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adv",
+        "def_zh": "在南方",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -289628,7 +290180,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "向南 a向南的",
+        "def_zh": "向南",
         "def_en": null,
         "examples": [
           {
@@ -289636,6 +290188,13 @@
             "zh": "她不走平常向南去亚历山大和家乡的路，而是向西走。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "向南的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -290509,7 +291068,7 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "溅污 n滴落",
+        "def_zh": "溅污",
         "def_en": null,
         "examples": [
           {
@@ -290517,6 +291076,13 @@
             "zh": "他注视着往玻璃上溅落的雨。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "滴落",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -291009,7 +291575,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "小斑点  vt点缀",
+        "def_zh": "小斑点",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "点缀",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -292015,39 +292588,26 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "n.",
-        "def_en": null,
+        "def_zh": "恶意，怨恨；刁难；in spite of 尽管，不管",
+        "def_en": "A desire to hurt, annoy, or offend someone; (in spite of: without being affected by).",
         "examples": [
           {
-            "en": "We went out in spite of the rain.",
-            "zh": "尽管下着雨，我们还是出去了。"
-          },
-          {
-            "en": "Kelly loved her husband in spite of the fact that he drank too much.",
-            "zh": "虽然丈夫酗酒，凯莉仍然爱着他。"
+            "en": "They enjoyed the picnic in spite of the light rain.",
+            "zh": "尽管下着小雨，他们依然在野餐中玩得很尽兴。"
           }
         ],
         "status": "reviewed"
       },
       {
-        "pos": "n",
-        "def_zh": "恶意,怨恨,不顾",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "vt.",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "刁难,欺侮",
-        "def_en": null,
-        "examples": [],
+        "pos": "v",
+        "def_zh": "故意刁难，激怒，伤害",
+        "def_en": "To deliberately hurt, annoy, or offend someone.",
+        "examples": [
+          {
+            "en": "He only said that to spite me.",
+            "zh": "他说那句话纯粹是为了故意气我。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -292315,6 +292875,28 @@
           {
             "en": "a White House spokesman",
             "zh": "白宫发言人"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "spokeswoman",
+    "phonetic_us": "ˈspoʊkswʊmən",
+    "phonetic_uk": "ˈspəʊkswʊmən",
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "女发言人",
+        "def_en": "A female spokesperson.",
+        "examples": [
+          {
+            "en": "The spokeswoman answered questions from journalists.",
+            "zh": "女发言人回答了记者们的提问。"
           }
         ],
         "status": "reviewed"
@@ -295143,6 +295725,28 @@
     "culture": null
   },
   {
+    "word": "stateswoman",
+    "phonetic_us": "ˈsteɪtswʊmən",
+    "phonetic_uk": "ˈsteɪtswʊmən",
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "女政治家",
+        "def_en": "A woman who is a skilled, experienced, and respected political leader.",
+        "examples": [
+          {
+            "en": "She was revered internationally as an astute stateswoman.",
+            "zh": "她在国际上被尊奉为一位精明干练的女政治家。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "static",
     "phonetic_us": "'stætɪk",
     "phonetic_uk": "'stætɪk",
@@ -295552,7 +296156,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "桶材；窄板  v敲破",
+        "def_zh": "桶材；窄板",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "敲破",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -298084,13 +298695,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Strange)人名；(英)斯特兰奇；(瑞典、塞)斯特朗格",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -299280,13 +299884,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Strong)人名；(英)斯特朗",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -299864,7 +300461,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "特技；噱头 v阻碍正常成长",
+        "def_zh": "特技；噱头",
         "def_en": null,
         "examples": [
           {
@@ -299876,6 +300473,13 @@
             "zh": "特技飞行表演"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "阻碍正常成长",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -300000,7 +300604,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "猪栏 v住在猪圈里, 关入猪栏",
+        "def_zh": "猪栏",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "住在猪圈里, 关入猪栏",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -301615,6 +302226,28 @@
     "culture": null
   },
   {
+    "word": "successfully",
+    "phonetic_us": "səkˈsesfəli",
+    "phonetic_uk": "səkˈsesfəli",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adv",
+        "def_zh": "成功地，圆满地",
+        "def_en": "In a way that accomplishes a desired aim or result.",
+        "examples": [
+          {
+            "en": "The doctors successfully performed the complex surgery.",
+            "zh": "医生们圆满成功地完成了这台复杂的手术。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "succession",
     "phonetic_us": "sək'sɛʃən",
     "phonetic_uk": "sək'seʃ(ə)n",
@@ -301849,13 +302482,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Such)人名；(英)萨奇；(德)祖赫",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -302058,13 +302684,6 @@
             "zh": "她遭受着巨大的痛苦。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Suffer)人名；(意)苏费尔",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -303410,13 +304029,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Superb)人名；(罗)苏佩尔布",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -304447,13 +305059,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Sure)人名；(英)休尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -304752,6 +305357,28 @@
         "def_zh": "令人惊讶的",
         "def_en": null,
         "examples": [],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "surprised",
+    "phonetic_us": "sərˈpraɪzd",
+    "phonetic_uk": "səˈpraɪzd",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adj",
+        "def_zh": "感到惊讶的，吃惊的",
+        "def_en": "Feeling or showing surprise.",
+        "examples": [
+          {
+            "en": "I was pleasantly surprised by the warm reception.",
+            "zh": "受到如此热情的接待，我感到非常惊喜。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -307353,6 +307980,28 @@
     "culture": null
   },
   {
+    "word": "t-shirt",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "T恤衫，短袖汗衫",
+        "def_en": "A short-sleeved casual top, generally made of cotton.",
+        "examples": [
+          {
+            "en": "He put on a comfortable cotton T-shirt and jeans.",
+            "zh": "他穿上了一件舒适的纯棉T恤和牛仔裤。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "tab",
     "phonetic_us": "tæb",
     "phonetic_uk": "tæb",
@@ -307841,7 +308490,7 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "感染 n污点",
+        "def_zh": "感染",
         "def_en": null,
         "examples": [
           {
@@ -307849,6 +308498,13 @@
             "zh": "贝克抗辩说他的审判受到了负面宣传的影响。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "污点",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -308088,13 +308744,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Tall)人名；(马里、阿拉伯)塔勒；(芬、罗、瑞典)塔尔；(英)托尔；(土)塔勒",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -308108,7 +308757,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "记分  vi符合",
+        "def_zh": "记分",
         "def_en": null,
         "examples": [
           {
@@ -308116,6 +308765,13 @@
             "zh": "他们没有对来宫殿的游客作一个记录，不过这个地方非常受欢迎的。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "符合",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -308240,7 +308896,14 @@
     "senses": [
       {
         "pos": "v",
-        "def_zh": "有浓味 n特殊气味",
+        "def_zh": "有浓味",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "特殊气味",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -310729,13 +311392,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Ten)人名；(英)坦恩；(意)泰恩；(柬)登",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -310973,7 +311629,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "十倍的 ad成十倍",
+        "def_zh": "十倍的",
         "def_en": null,
         "examples": [
           {
@@ -310981,6 +311637,13 @@
             "zh": "在过去两年里，业务扩展了十倍。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adv",
+        "def_zh": "成十倍",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -312187,28 +312850,26 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "n.",
-        "def_en": null,
+        "def_zh": "纺织品，织物；纺织业",
+        "def_en": "A type of cloth or woven fabric; the industry of producing cloth.",
         "examples": [
           {
-            "en": "Their main exports are textiles, especially silk and cotton.",
-            "zh": "他们的主要出口商品是纺织品，尤其是丝绸和棉布。"
+            "en": "The country is a leading exporter of cotton textiles.",
+            "zh": "该国是棉纺织品的主要出口国之一。"
           }
         ],
         "status": "reviewed"
       },
       {
-        "pos": "n",
-        "def_zh": "纺织品",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
         "pos": "adj",
-        "def_zh": "纺织的",
-        "def_en": null,
-        "examples": [],
+        "def_zh": "纺织的，织造的",
+        "def_en": "Relating to fabric or the manufacture of cloth.",
+        "examples": [
+          {
+            "en": "New technology modernized the traditional textile industry.",
+            "zh": "新技术使传统的纺织工业实现了现代化。"
+          }
+        ],
         "status": "reviewed"
       }
     ],
@@ -312389,13 +313050,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Than)人名；(老、柬、德)坦；(缅)丹",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -312528,13 +313182,6 @@
       {
         "pos": "adj",
         "def_zh": "那；那个",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(That)人名；(德)塔特",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -312743,13 +313390,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Their)人名；(英)蒂尔；(芬、瑞典)泰尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -312809,13 +313449,6 @@
             "zh": "我借给他几本书，但他一本还没看过。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Them)人名；(老)探",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -313094,7 +313727,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "治疗的, 治疗学的 n治疗剂, 治疗学家",
+        "def_zh": "治疗的, 治疗学的",
         "def_en": null,
         "examples": [
           {
@@ -313102,6 +313735,13 @@
             "zh": "有些人称这种草药具有止痛的疗效。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "治疗剂, 治疗学家",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -314293,13 +314933,6 @@
       {
         "pos": "adv",
         "def_zh": "这样地；这么",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(This)人名；(法)蒂斯",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -315867,13 +316500,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Tight)人名；(英)泰特",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -316472,13 +317098,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Tiny)人名；(葡、印)蒂尼",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -316751,13 +317370,6 @@
       {
         "pos": "prep",
         "def_zh": "到；向；（表示时间、方向）朝…方向",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(To)人名；(柬)多；(中)脱(普通话·威妥玛)",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -320885,6 +321497,28 @@
     "culture": null
   },
   {
+    "word": "traveller",
+    "phonetic_us": "ˈtrævələr",
+    "phonetic_uk": "ˈtrævələ",
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "旅行者，旅客，游人（美式常作 traveler）",
+        "def_en": "A person who is travelling or who often travels.",
+        "examples": [
+          {
+            "en": "The ancient hotel welcomed weary travellers from afar.",
+            "zh": "这家古老的旅店热情迎接远道而来的疲惫旅客。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "traverse",
     "phonetic_us": "trə'vɝs",
     "phonetic_uk": "'trævəs; trə'vɜːs",
@@ -322808,13 +323442,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Truly)人名；(英)特鲁利",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -324270,7 +324897,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "合股线 v织, (使)缠绕",
+        "def_zh": "合股线",
         "def_en": null,
         "examples": [
           {
@@ -324278,6 +324905,13 @@
             "zh": "用双股线捆扎起来的一摞文件"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "织, (使)缠绕",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -328734,6 +329368,28 @@
     "culture": null
   },
   {
+    "word": "united",
+    "phonetic_us": "juːˈnaɪtɪd",
+    "phonetic_uk": "juːˈnaɪtɪd",
+    "frequency": null,
+    "tag": "zk",
+    "senses": [
+      {
+        "pos": "adj",
+        "def_zh": "联合的，统一的，团结一致的",
+        "def_en": "Joined together politically, for a common purpose, or by shared beliefs.",
+        "examples": [
+          {
+            "en": "A united team is capable of overcoming extraordinary challenges.",
+            "zh": "一个团结一致的团队能够克服巨大的困难。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
     "word": "unity",
     "phonetic_us": "'junəti",
     "phonetic_uk": "ˈjuːnəti",
@@ -331749,13 +332405,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Upper)人名；(英)厄珀",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -331834,7 +332483,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "上游的 ad在上游",
+        "def_zh": "上游的",
         "def_en": null,
         "examples": [
           {
@@ -331842,6 +332491,13 @@
             "zh": "...在中非的一次沿河而上的旅行。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adv",
+        "def_zh": "在上游",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -331990,7 +332646,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "高潮 vi涌起",
+        "def_zh": "高潮",
         "def_en": null,
         "examples": [
           {
@@ -331998,6 +332654,13 @@
             "zh": "一个建设的新高潮正在兴起。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "涌起",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -332075,7 +332738,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "逆风的 ad逆风地",
+        "def_zh": "逆风的",
         "def_en": null,
         "examples": [
           {
@@ -332083,6 +332746,13 @@
             "zh": "...森林顶风一侧的大树。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adv",
+        "def_zh": "逆风地",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -332148,13 +332818,6 @@
             "zh": "城市人口中的贫困群体"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Urban)人名；(西)乌尔万；(斯洛伐)乌尔班；(德、俄、罗、匈、塞、波、捷、瑞典、意)乌尔班；(英)厄本；(法)于尔邦",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -332954,7 +333617,7 @@
     "senses": [
       {
         "pos": "adj",
-        "def_zh": "功利的 n功利主义者",
+        "def_zh": "功利的",
         "def_en": null,
         "examples": [
           {
@@ -332962,6 +333625,13 @@
             "zh": "布鲁斯的办公室实用而素淡。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "n",
+        "def_zh": "功利主义者",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -333226,13 +333896,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Vacant)人名；(法)瓦康",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -333425,13 +334088,6 @@
             "zh": "州长只是含糊地大致说了一下他的税务计划。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Vague)人名；(法)瓦格；(英)韦格",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -335022,7 +335678,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "(蛇的)毒液, 恶意 vt放毒, 使恶毒",
+        "def_zh": "(蛇的)毒液, 恶意",
         "def_en": null,
         "examples": [
           {
@@ -335034,6 +335690,13 @@
             "zh": "恶毒的表情"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "放毒, 使恶毒",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -335808,13 +336471,6 @@
       {
         "pos": "adv",
         "def_zh": "非常，很；完全",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Very)人名；(英)维里",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -337803,13 +338459,6 @@
           }
         ],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Vital)人名；(法、德、意、俄、葡)维塔尔；(西)比塔尔",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -338816,7 +339465,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "填料 vt填塞",
+        "def_zh": "填料",
+        "def_en": null,
+        "examples": [],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "填塞",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -339094,6 +339750,28 @@
           {
             "en": "We have a job for you as a waiter.",
             "zh": "我们可以为你提供一份服务员的工作。"
+          }
+        ],
+        "status": "reviewed"
+      }
+    ],
+    "culture": null
+  },
+  {
+    "word": "waiting-room",
+    "phonetic_us": null,
+    "phonetic_uk": null,
+    "frequency": null,
+    "tag": "gk",
+    "senses": [
+      {
+        "pos": "n",
+        "def_zh": "候车室，候诊室",
+        "def_en": "A room provided for the use of people who are waiting, as at a station or doctor's office.",
+        "examples": [
+          {
+            "en": "Passengers waited patiently in the station waiting-room.",
+            "zh": "乘客们在车站候车室里耐心等待。"
           }
         ],
         "status": "reviewed"
@@ -339504,13 +340182,6 @@
             "zh": "有人看到他在纽约街头游荡。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Wander)人名；(英)万德(女子教名)",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -339974,13 +340645,6 @@
             "zh": "“小心，岩石很滑。”亚历克斯提醒说。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Warn)人名；(英)沃恩；(德)瓦恩",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -340906,21 +341570,14 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "n&",
-        "def_en": null,
+        "def_zh": "水边，水畔，湖滨，岸边",
+        "def_en": "The edge of a sea, lake, river, or other body of water.",
         "examples": [
           {
-            "en": "There are still bears to be encountered though, albeit from the safety of our boat - two cubs and a grizzly idling along the waterside; a black bear emerging from the river.",
-            "zh": "我们居然遇到了熊，尽管我们安坐在船上——一头大灰熊和两只小熊在水边闲逛，一头黑熊从水中冒出头来。"
+            "en": "They enjoyed an evening stroll along the peaceful waterside.",
+            "zh": "他们在宁静的水畔漫步，享受傍晚时光。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "adj",
-        "def_zh": "水边(的),湖畔(的)",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -341187,7 +341844,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "蜡，蜂蜡 vt给…上蜡",
+        "def_zh": "蜡，蜂蜡",
         "def_en": null,
         "examples": [
           {
@@ -341195,6 +341852,13 @@
             "zh": "彩色蜡烛在家具上留下了一摊摊的蜡油。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "v",
+        "def_zh": "给…上蜡",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -341336,13 +342000,6 @@
             "zh": "我们意大利人为自己的历史感到自豪。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(We)人名；(缅)韦",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -344213,7 +344870,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "柳条 a柳条制的",
+        "def_zh": "柳条",
         "def_en": null,
         "examples": [
           {
@@ -344221,6 +344878,13 @@
             "zh": "...一个柳条编的篮子。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adj",
+        "def_zh": "柳条制的",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -344727,13 +345391,6 @@
       {
         "pos": "v",
         "def_zh": "决心；用意志力驱使；将（财产等）遗赠某人（will的现在分词）",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Willing)人名；(德、芬、瑞典)维林；(英)威林",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -345440,13 +346097,6 @@
         "def_en": null,
         "examples": [],
         "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Wise)人名；(英)怀斯",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
       }
     ],
     "culture": null
@@ -345624,13 +346274,6 @@
             "zh": "你最好把护照带着。"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(With)人名；(德、芬、丹、瑞典)维特",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -347287,13 +347930,6 @@
       {
         "pos": "v",
         "def_zh": "穿；磨损（wear的过去分词）；佩戴",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Worn)人名；(柬)翁；(英、葡)沃恩",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -348990,7 +349626,7 @@
     "senses": [
       {
         "pos": "n",
-        "def_zh": "去年 ad过去不久的岁月",
+        "def_zh": "去年",
         "def_en": null,
         "examples": [
           {
@@ -348998,6 +349634,13 @@
             "zh": "当今的性感偶像已经取代了往昔过时的英雄形象。"
           }
         ],
+        "status": "reviewed"
+      },
+      {
+        "pos": "adv",
+        "def_zh": "过去不久的岁月",
+        "def_en": null,
+        "examples": [],
         "status": "reviewed"
       }
     ],
@@ -349029,13 +349672,6 @@
       {
         "pos": "conj",
         "def_zh": "但是；然而",
-        "def_en": null,
-        "examples": [],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(Yet)人名；(东南亚国家华语)一",
         "def_en": null,
         "examples": [],
         "status": "reviewed"
@@ -349331,13 +349967,6 @@
             "zh": "嘿，说你呢，让开！"
           }
         ],
-        "status": "reviewed"
-      },
-      {
-        "pos": "n",
-        "def_zh": "(You)人名；(柬)尤；(东南亚国家华语)猷",
-        "def_en": null,
-        "examples": [],
         "status": "reviewed"
       }
     ],
